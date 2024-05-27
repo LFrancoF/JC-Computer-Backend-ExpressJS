@@ -3,8 +3,8 @@ const {Pool} = pg;
 
 export const pool = new Pool({
   user: 'postgres',
-  password: 'postgres',
+  password: 'postgresgf',
   host: 'localhost',
-  port: 5432, // default Postgres port
+  port: 5432, 
   database: 'dbprueba'
 });
