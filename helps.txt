@@ -1,0 +1,5 @@
+insert into usuario(nombre,username,password) values ('Gustavo Franco','gfranco','123456');
+insert into usuario(nombre,username,password) values ('Carla Quiroga','cquiroga','carQ123');
+insert into usuario(nombre,username,password) values ('Juan Carlos Oroz','OrozJuanC','pass1523');
+
+select * from usuario
