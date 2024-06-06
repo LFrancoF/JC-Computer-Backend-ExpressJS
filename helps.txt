@@ -3,3 +3,5 @@ insert into usuario(nombre,username,password) values ('Carla Quiroga','cquiroga'
 insert into usuario(nombre,username,password) values ('Juan Carlos Oroz','OrozJuanC','pass1523');
 
 select * from usuario
+
+Hola adriana
